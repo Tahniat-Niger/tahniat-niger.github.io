@@ -57,6 +57,7 @@ h1 {
   color: var(--orange);
 }
 .image {
+  border: 1px solid var(--white);
   height: 90%;
 }
 .btn.btn1 {
