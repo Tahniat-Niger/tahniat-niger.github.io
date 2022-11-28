@@ -28,7 +28,7 @@ I have added all the necessary information about my professional life in my port
 
 I created a public repository in my GitHub account. I pushed all my project's files with commit messages. From pages in the setting, I selected the branch and deployed the project there.
 
-### Sources that I used
+### Outside Sources that I used
 
 - For navbar, I have used [Bootstrap 5 Navbar](https://getbootstrap.com/docs/5.0/components/navs-tabs/) and also a bootstrap navbar example from bootstrap folder in webdev-examples repository.
 - For card, I have used [Bootstrap 5 Card](https://getbootstrap.com/docs/5.0/components/card/) and also from a homework of mine for Web Development course on Card.
